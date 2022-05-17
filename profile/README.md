@@ -9,7 +9,7 @@
 
 ## 2. Description
 
-This organization was created to group together course work from students of the courses I provide on the Fiverr platform. We use the features from Github to enhance the experience of the student in several ways. This platform provides the student a way space to write their code, share it with the tutor and get feedback on it. We can leverage **Pull Requests** for code reviews and the convenience of git history to track the code over time.
+This organization was created to group together course work from students of the courses I provide on the Fiverr platform. We use the features from Github to enhance the experience of the student in several ways. This platform provides the student a space to write their code, share it with the tutor and get feedback on it. We can leverage **Pull Requests** for code reviews and the convenience of version control history to track changes over time.
 
 ## 3. Courses
 
